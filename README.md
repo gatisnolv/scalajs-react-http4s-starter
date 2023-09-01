@@ -1,3 +1,6 @@
+# Description
+I forked this when looking at how to get http4s to serve scalajs output in an idiomatic fashion. The specified docker base image was no longer resolving, and updating it fixed this issue at the time of writing.
+
 # scalajs-react-http4s-starter
 [![Build Status](https://travis-ci.org/oen9/scalajs-react-http4s-starter.svg?branch=master)](https://travis-ci.org/oen9/scalajs-react-http4s-starter)
 
